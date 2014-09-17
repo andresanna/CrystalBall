@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CrystalBall</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fuck_you_text">FUUUUCK YOUUUU</string>
+    <string name="majorButton">Enlighten me!</string>
+    <string name="answerText">YES BITCH!</string>
+    <string name="answer1">I feel some good vibes</string>
+    <string name="answer2">I DO NOT recommend this path</string>
+    <string name="answer3">It depends</string>
+    <string name="answer4">You need to trust YOURSELF </string>
+
+</resources>
